@@ -1,5 +1,10 @@
 # PROJ
 
+This fork of PROJ intends to provide generalized SOM map projection.
+The remainder of this README is copied from PROJ trunk without modification.
+
+===========================================================================
+
 [![Travis Status](https://travis-ci.com/OSGeo/PROJ.svg?branch=master)](https://travis-ci.com/OSGeo/PROJ)
 [![AppVeyor Status](https://ci.appveyor.com/api/projects/status/github/OSGeo/PROJ?branch=master&svg=true)](https://ci.appveyor.com/project/OSGeo/PROJ?branch=master)
 [![Coveralls Status](https://coveralls.io/repos/github/OSGeo/PROJ/badge.svg?branch=master)](https://coveralls.io/github/OSGeo/PROJ?branch=master)
